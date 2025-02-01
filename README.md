@@ -2,7 +2,7 @@
 
 This project analyzes LinkedIn job postings to identify hiring trends, salary patterns, in-demand skills, and industry insights. The analysis was performed in **Jupyter Notebook** using **Python (Pandas, Matplotlib, Seaborn)**, and an interactive **Power BI Dashboard** was created for better visualization.
 
-🔗 **Power BI Dashboard:** [View Here][https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=4Aypzd](https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=4Aypzd)
+🔗 **Power BI Dashboard:** [View Here][https://1drv.ms/u/c/c19c8a510696ffc5/EUF6xXao-GNBlEGuO5iunC4BW2z-Py07nFWi133HnSUfAA?e=jJsu4a](https://1drv.ms/u/c/c19c8a510696ffc5/EUF6xXao-GNBlEGuO5iunC4BW2z-Py07nFWi133HnSUfAA?e=jJsu4a)
 
 ---
 
