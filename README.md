@@ -2,7 +2,7 @@
 
 This project analyzes LinkedIn job postings to identify hiring trends, salary patterns, in-demand skills, and industry insights. The analysis was performed in **Jupyter Notebook** using **Python (Pandas, Matplotlib, Seaborn)**, and an interactive **Power BI Dashboard** was created for better visualization.
 
-🔗 **Power BI Dashboard:** [View Here]([https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz]))[https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz](https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz)
+🔗 **Power BI Dashboard:** [View Here]([https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz]))[https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz]([https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=QYr7nz](https://shreechanakya-my.sharepoint.com/:u:/g/personal/atharva_abhang_indiraisbs_edu_in/Ee_slXFPC8lEgIaYfd82zr0Bel03PlFreWxKo_vZxN04TQ?e=4Aypzd))
 
 ---
 
